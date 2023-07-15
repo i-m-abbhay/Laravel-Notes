@@ -1,0 +1,1 @@
+you can use `{{____}}` for php code inside the blade template files.

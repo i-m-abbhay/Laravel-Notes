@@ -1,0 +1,1 @@
+A package for making queries interactively.

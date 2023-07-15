@@ -1,0 +1,1 @@
+It's a package for authentication in laravel. You can use this after by checking out this [Link](https://laravel.com/docs/10.x/starter-kits#laravel-breeze).

@@ -1,0 +1,1 @@
+is a framework which smoothens the development process
