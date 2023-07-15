@@ -13,4 +13,4 @@ _But you can see this doesn't seem to be that gamechanging. Hold on a minute my 
 **There are other usefull methods to chain.**
 `->value('email')`, `->find(1)` -> find uses key by default, `->chunk(100)` etc.
 
-[[Eloquent ORM]] helps us to provide even a better method than this
+[[EloquentORM]] helps us to provide even a better method than this

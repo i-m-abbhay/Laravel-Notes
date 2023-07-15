@@ -1,28 +1,28 @@
-## You can find all about [[Packages]] here.
+## You can find all about [Packages](Packages.md) here.
 
-## [[env file]] 
+## [env file](EnvFile.md) 
 
-## Connecting with [[Database]]
+## Connecting with [Database](Database.md)
 
 > There is something called **Localization feature in Laravel**.
 
-## Using php in [[Blade template]] files
+## Using php in [Blade template](BladeTemplate.md) files
 
-## [[MVC]] pattern
+## [MVC](MVC.md) pattern
 
 ## [Running raw SQL queries](RawSQL.md)
 
 ## [Laravel Query Builder](QueryBuilder.md)
 
-## Laravel [[Eloquent ORM]] (Object Relational Model)
+## Laravel [Eloquent ORM](EloquentORM.md) (Object Relational Model)
 
-## [[Hashing Passwords]]
+## [Hashing Passwords](HashingPasswords.md)
 
-## [[Configurations in Laravel]]
+## [Configurations in Laravel](ConfigurationsInLaravel.md)
 
 ## [Caching in Laravel](Caching.md)
 
-## [[Avatar & Tinker]]
+## [Avatar & Tinker](Avatar&Tinker)
 
 ## [Mass Assignment](MassAssignment)
 
